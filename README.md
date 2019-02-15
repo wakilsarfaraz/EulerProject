@@ -13,4 +13,4 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 **Solution:**
 
-*************************************...work in progress...*****************************************
+...work in progress...
