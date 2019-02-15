@@ -12,3 +12,4 @@ The code can be directly downloaded and run to obtain the answer. Solutions to q
 By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.`
 
 **Solution:**
+*************************************...work in progress...*****************************************
